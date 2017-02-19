@@ -2,4 +2,6 @@
 bin/
 build/
 *.class
-
+.setting
+.classpath
+.project
